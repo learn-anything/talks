@@ -1,32 +1,17 @@
-<h1 align="center"> Free talks all can watch 👀</h1>
+# Free talks all can watch 👀 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-<div align="center">
-<a href="https://www.patreon.com/learnanything">
-		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
-	</a>
-	<a href="https://github.com/learn-anything/talks/blob/master/LICENSE">
-		<img src="https://img.shields.io/pypi/l/pipenv.svg">
-	</a>
-</div>
-
-<h1 align="center"> Description 📕</h1>
-
-
-This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting talks one can watch to learn new things and discover new insights. 🔭
+## Description 📕
+Here is a curated list of all the interesting talks one can watch to learn new things and discover new insights. 🔭
 
 The number before the talk stands for the year in which the talk was given in. 
 
 Pull requests are welcome. Thank you. 💙
 
-
-#### Related websites / repositories 
-
+### Related websites / repositories 
 - [find lectures](https://findlectures.com/)
 - [awesome talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [programming talks](https://github.com/hellerve/programming-talks)
 - [awesome tech talks](https://github.com/1and1/awesome-tech-talks)
 
-
-<h1 align="center"> Talks </h1>
-
+## Talks
 - [16: on the spectrum of abstraction 👀](https://www.youtube.com/watch?v=mVVNJKv9esE)
