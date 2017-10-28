@@ -1,7 +1,6 @@
 # Free talks all can watch 👀 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-
 ## Description 📕
-Here is a curated list of all the interesting talks one can watch to learn new things and discover new insights. 🔭
+Here is a curated list of all the interesting talks one can watch to learn new things and discover new insights. 
 
 The number before the talk stands for the year in which the talk was given in. 
 
