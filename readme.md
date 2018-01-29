@@ -4,6 +4,9 @@
 ## Programming
 - [On the spectrum of abstraction (2016)](https://www.youtube.com/watch?v=mVVNJKv9esE)
 
+## Swift
+- [Swift’s Reflective Underpinnings - Joe Groff (2017)](https://www.skilled.io/u/swiftsummit/swift-s-reflective-underpinnings-joe-groff)
+
 ## Related
 - [Find lectures](https://findlectures.com/)
 - [Awesome talks](https://github.com/JanVanRyswyck/awesome-talks)
