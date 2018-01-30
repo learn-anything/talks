@@ -6,6 +6,7 @@
 
 ## Swift
 - [Swift’s Reflective Underpinnings - Joe Groff (2017)](https://www.skilled.io/u/swiftsummit/swift-s-reflective-underpinnings-joe-groff)
+- [A Type System From Scratch – Robert Widmann (2017)](https://www.youtube.com/watch?v=IbjoA5xVUq0)
 
 ## Related
 - [Find lectures](https://findlectures.com/)
