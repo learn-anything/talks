@@ -3,9 +3,9 @@
 
 ## Programming
 - [On the spectrum of abstraction (2016)](https://www.youtube.com/watch?v=mVVNJKv9esE)
-- ["Making Impossible States Impossible" by Richard Feldman (2016)](https://www.youtube.com/watch?v=IcgmSRJHu_8&feature=youtu.be)
+- ["Making Impossible States Impossible" - Richard Feldman (2016)](https://www.youtube.com/watch?v=IcgmSRJHu_8&feature=youtu.be)
 - [Stanford Seminar - Concatenative Programming: From Ivory to Metal (2017)](https://www.youtube.com/watch?v=_IgqJr8jG8M&app=desktop)
-- [My History with Papers by James Long (2017)](https://www.youtube.com/watch?v=UzE955UJUVU)
+- [My History with Papers - James Long (2017)](https://www.youtube.com/watch?v=UzE955UJUVU)
 
 ## Go
 - [Building a Bank with Go (2017)](https://www.infoq.com/presentations/bank-go)
@@ -15,6 +15,9 @@
 
 ## Startups
 - [New Tech Start-Up Bubble (2017)](https://www.youtube.com/watch?v=G7vrCpWbmDw)
+
+## Typography
+- [Performance and Web Typography - Helen Holmes (2016)](https://www.youtube.com/watch?v=emLfXChvVPQ)
 
 ## Swift
 - [Swift’s Reflective Underpinnings - Joe Groff (2017)](https://www.skilled.io/u/swiftsummit/swift-s-reflective-underpinnings-joe-groff)
