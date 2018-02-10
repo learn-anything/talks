@@ -10,6 +10,9 @@
 ## Go
 - [Building a Bank with Go (2017)](https://www.infoq.com/presentations/bank-go)
 
+## Git
+- [Knowledge is Power: Getting out of trouble by understanding Git - Steve Smith (2015)](https://www.youtube.com/watch?v=sevc6668cQ0)
+
 ## Clojure
 - [Opening Keynote - Rich Hickey (2017)](https://www.youtube.com/watch?v=2V1FtfBDsLU)
 - [Repl Driven Development - Stuart Halloway (2017)](https://vimeo.com/223309989)
