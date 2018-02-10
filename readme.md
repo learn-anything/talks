@@ -12,6 +12,7 @@
 
 ## Clojure
 - [Opening Keynote - Rich Hickey (2017)](https://www.youtube.com/watch?v=2V1FtfBDsLU)
+- [Repl Driven Development - Stuart Halloway (2017)](https://vimeo.com/223309989)
 
 ## Startups
 - [New Tech Start-Up Bubble (2017)](https://www.youtube.com/watch?v=G7vrCpWbmDw)
