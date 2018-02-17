@@ -18,6 +18,9 @@
 ## Javascript
 - [Visual JavaScript Experiments - Hakim El Hattab (2014)](https://www.youtube.com/watch?v=02ilIJdI5ZI)
 
+## Design
+- [Immutable User Interfaces - Lee Byron (2016)](https://www.youtube.com/watch?v=pLvrZPSzHxo)
+
 ## Git
 - [Knowledge is Power: Getting out of trouble by understanding Git - Steve Smith (2015)](https://www.youtube.com/watch?v=sevc6668cQ0)
 
