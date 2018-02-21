@@ -31,6 +31,9 @@
 ## Machine Learning
 - [A Tour of Deep Learning With C++ - Peter Goldsborough (2017)](https://www.youtube.com/watch?v=Lo1rXJdAJ7w)
 
+## Cryptography
+- [Making Private Communication Simple - Moxie Marlinspike (2017)](https://www.youtube.com/watch?v=kp-b8iTZqzM)
+
 ## GraphQL
 - [Kitze: React state management in a GraphQL era (2018)](https://www.youtube.com/watch?v=zDgHiRuIAZ4)
 
