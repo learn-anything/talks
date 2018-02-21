@@ -28,6 +28,9 @@
 - [Opening Keynote - Rich Hickey (2017)](https://www.youtube.com/watch?v=2V1FtfBDsLU)
 - [Repl Driven Development - Stuart Halloway (2017)](https://vimeo.com/223309989)
 
+## Machine Learning
+- [A Tour of Deep Learning With C++ - Peter Goldsborough (2017)](https://www.youtube.com/watch?v=Lo1rXJdAJ7w)
+
 ## GraphQL
 - [Kitze: React state management in a GraphQL era (2018)](https://www.youtube.com/watch?v=zDgHiRuIAZ4)
 
