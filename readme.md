@@ -1,5 +1,5 @@
-# Interesting Talks [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists)
-*Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
+# Interesting Talks [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#readme)
+*Please read the [contribution guidelines](contributing.md/#contribution-guidelines#readme) before contributing.*
 
 ## Programming
 - [The Mess We're In - Joe Armstrong (2014)](https://www.youtube.com/watch?v=lKXe3HUG2l4)
@@ -59,7 +59,7 @@
 - [Awesome tech talks](https://github.com/1and1/awesome-tech-talks)
 
 ## Contributing
-See [contribution guidelines](contributing.md/#contribution-guidelines).
+See [contribution guidelines](contributing.md/#contribution-guidelines#readme).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
