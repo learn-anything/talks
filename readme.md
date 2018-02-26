@@ -19,6 +19,7 @@
 - [Visual JavaScript Experiments - Hakim El Hattab (2014)](https://www.youtube.com/watch?v=02ilIJdI5ZI)
 
 ## Design
+- [When We Build - Wilson Miner (2012)](https://vimeo.com/34017777)
 - [Immutable User Interfaces - Lee Byron (2016)](https://www.youtube.com/watch?v=pLvrZPSzHxo)
 
 ## Git
