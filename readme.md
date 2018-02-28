@@ -39,8 +39,10 @@
 - [Kitze: React state management in a GraphQL era (2018)](https://www.youtube.com/watch?v=zDgHiRuIAZ4)
 
 ## Startups
-- [New Tech Start-Up Bubble (2017)](https://www.youtube.com/watch?v=G7vrCpWbmDw)
 - [David Heinemeier Hansson at Startup School (2008)](https://www.youtube.com/watch?v=0CDXJ6bMkMY)
+- [New Tech Start-Up Bubble (2017)](https://www.youtube.com/watch?v=G7vrCpWbmDw)
+- [Turning Side Projects into Profitable Startups (2018)](https://www.youtube.com/watch?v=6reLWfFNer0)
+
 
 ## Typography
 - [Performance and Web Typography - Helen Holmes (2016)](https://www.youtube.com/watch?v=emLfXChvVPQ)
