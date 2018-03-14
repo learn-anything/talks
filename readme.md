@@ -59,9 +59,9 @@
 
 ## Related
 - [Find lectures](https://findlectures.com/)
-- [Awesome talks](https://github.com/JanVanRyswyck/awesome-talks)
-- [Programming talks](https://github.com/hellerve/programming-talks)
-- [Awesome tech talks](https://github.com/1and1/awesome-tech-talks)
+- [Awesome talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
+- [Programming talks](https://github.com/hellerve/programming-talks#readme)
+- [Awesome tech talks](https://github.com/1and1/awesome-tech-talks#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
