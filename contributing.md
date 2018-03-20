@@ -5,11 +5,11 @@ Ensure your pull request adheres to the following guidelines:
 - If you can't find the year the talk was made in, you can skip adding the year.
 - `Name` should include the author who made the talk. Add it to the end after `-`.
 - The talk should be put into its appropriate category. Pick the one you think is closest if you are not sure.
-- Only add talks you really think are actually interesting.
+- Only add talks you think are actually interesting.
 - Start the description with a capital and end with a full stop.
 - Don't start the description with `A` or `An`.
 - New categories or improvements to the existing categorisation are welcome.
 - Check your spelling and grammar.
-- You can also add other related websites and repositories in the end.
+- You can also add related links and repositories in the end.
 
 Thank you for your [suggestions](../../edit/master/readme.md)! 💜
