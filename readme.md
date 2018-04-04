@@ -14,6 +14,7 @@
 
 ## Go
 - [Building a Bank with Go (2017)](https://www.infoq.com/presentations/bank-go)
+- [Go: looking back and looking forward. Brad Fitzpatrick, Google (2018)](https://www.youtube.com/watch?v=ZCB-g2B4Y5A)
 
 ## Javascript
 - [Visual JavaScript Experiments - Hakim El Hattab (2014)](https://www.youtube.com/watch?v=02ilIJdI5ZI)
