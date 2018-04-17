@@ -76,6 +76,7 @@
 ## Swift
 - [Swift’s Reflective Underpinnings - Joe Groff (2017)](https://www.skilled.io/u/swiftsummit/swift-s-reflective-underpinnings-joe-groff)
 - [A Type System From Scratch – Robert Widmann (2017)](https://www.youtube.com/watch?v=IbjoA5xVUq0)
+- [The Two Sides of Writing Testable Code - Brandon Williams (2017)](https://academy.realm.io/posts/try-swift-brandon-williams-writing-testable-code/)
 
 ## Nutrition
 - [How Not To Die - Dr. Michael Greger (2016)](https://www.youtube.com/watch?v=7rNY7xKyGCQ)
