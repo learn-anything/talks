@@ -1,6 +1,25 @@
 # Interesting Talks [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
 *Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
+##### Contents
+- [Programming](#programming)
+- [Programming languages](#programming-languages)
+- [Go](#go)
+- [Javascript](#javascript)
+- [Design](#design)
+- [Productivity](#productivity)
+- [Git](#git)
+- [Clojure](#clojure)
+- [Machine Learning](#machine-learning)
+- [Cryptography](#cryptography)
+- [GraphQL](#graphql)
+- [Startups](#startups)
+- [Computer Science](#computer-science)
+- [Typography](#typography)
+- [Swift](#swift)
+- [Nutrition](#nutrition)
+- [Related](#related)
+
 ## Programming
 - [The Mess We're In - Joe Armstrong (2014)](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 - [On the spectrum of abstraction (2016)](https://www.youtube.com/watch?v=mVVNJKv9esE)
@@ -18,6 +37,7 @@
 
 ## Javascript
 - [Visual JavaScript Experiments - Hakim El Hattab (2014)](https://www.youtube.com/watch?v=02ilIJdI5ZI)
+- [Malte Ubl - Designing very large JavaScript applications (2018)](https://www.youtube.com/watch?v=ZZmUwXEiPm4)
 
 ## Design
 - [When We Build - Wilson Miner (2012)](https://vimeo.com/34017777)
@@ -47,6 +67,8 @@
 - [New Tech Start-Up Bubble (2017)](https://www.youtube.com/watch?v=G7vrCpWbmDw)
 - [Turning Side Projects into Profitable Startups (2018)](https://www.youtube.com/watch?v=6reLWfFNer0)
 
+## Computer Science
+- [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0) - [Paper version](http://www.cs.virginia.edu/%7Eevans/cs655/readings/steele.pdf) of talk.
 
 ## Typography
 - [Performance and Web Typography - Helen Holmes (2016)](https://www.youtube.com/watch?v=emLfXChvVPQ)
@@ -66,6 +88,9 @@
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
+
+## More lists 📝
+For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
