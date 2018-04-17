@@ -37,7 +37,7 @@
 
 ## Javascript
 - [Visual JavaScript Experiments - Hakim El Hattab (2014)](https://www.youtube.com/watch?v=02ilIJdI5ZI)
-- [Malte Ubl - Designing very large JavaScript applications (2018)](https://www.youtube.com/watch?v=ZZmUwXEiPm4)
+- [Malte Ubl - Designing very large JavaScript applications (2018)](https://www.youtube.com/watch?v=ZZmUwXEiPm4) - [Transcript](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3).
 
 ## Design
 - [When We Build - Wilson Miner (2012)](https://vimeo.com/34017777)
