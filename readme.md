@@ -83,6 +83,7 @@
 - [How Not To Die - Dr. Michael Greger (2016)](https://www.youtube.com/watch?v=7rNY7xKyGCQ)
 
 ## Related
+- [Awesome Talks Party](https://awesometalks.party/)
 - [Find lectures](https://findlectures.com/)
 - [Awesome talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
 - [Programming talks](https://github.com/hellerve/programming-talks#readme)
