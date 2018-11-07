@@ -20,10 +20,10 @@
 - [Productivity](#productivity)
 - [Programming](#programming)
 - [Programming languages](#programming-languages)
-- [Related](#related)
 - [Startups](#startups)
 - [Swift](#swift)
 - [Typography](#typography)
+- [Related](#related)
 
 ---
 
@@ -89,14 +89,6 @@
 - [Growing a Language - Guy Steele (1998)](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 - [Near future of programming languages (2017)](http://dev.stephendiehl.com/nearfuture.pdf)
 
-## Related
-
-- [Awesome Talks Party](https://awesometalks.party/)
-- [Awesome talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
-- [Awesome tech talks](https://github.com/1and1/awesome-tech-talks#readme)
-- [Find lectures](https://findlectures.com/)
-- [Programming talks](https://github.com/hellerve/programming-talks#readme)
-
 ## Startups
 
 - [David Heinemeier Hansson at Startup School (2008)](https://www.youtube.com/watch?v=0CDXJ6bMkMY)
@@ -112,6 +104,14 @@
 ## Typography
 
 - [Performance and Web Typography - Helen Holmes (2016)](https://www.youtube.com/watch?v=emLfXChvVPQ)
+
+## Related
+
+- [Awesome Talks Party](https://awesometalks.party/)
+- [Awesome talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
+- [Awesome tech talks](https://github.com/1and1/awesome-tech-talks#readme)
+- [Find lectures](https://findlectures.com/)
+- [Programming talks](https://github.com/hellerve/programming-talks#readme)
 
 ---
 
