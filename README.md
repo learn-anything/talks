@@ -7,6 +7,7 @@
 
 #### Contents
 
+- [Blockchain](#blockchain)
 - [Clojure](#clojure)
 - [Computer Science](#computer-science)
 - [Cryptography](#cryptography)
@@ -26,6 +27,10 @@
 - [Related](#related)
 
 ---
+
+## Blockchain
+
+- [Blockchained India](https://blockchainedindia.com/talks)
 
 ## Clojure
 
