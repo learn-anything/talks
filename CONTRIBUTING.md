@@ -1,5 +1,7 @@
 # Contribution Guidelines
+
 Ensure your pull request adheres to the following guidelines:
+
 - Search included talks before adding a new one, as yours may be a duplicate.
 - Use the following format: `[Name](link) (Year) - Description.`
 - If you can't find the year the talk was made in, you can skip adding the year.
@@ -12,4 +14,4 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - You can also add related links and repositories in the end.
 
-Thank you for your [suggestions](../../edit/master/README.md)! 💜
+Thank you for your [suggestions](../../edit/master/README.md)! ♥️
