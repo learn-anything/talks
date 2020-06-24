@@ -1,8 +1,6 @@
-# Talks [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+# Talks [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
-_Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
-
-#### Contents
+_Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Clojure](#clojure)
 - [Computer Science](#computer-science)
@@ -103,13 +101,12 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Related
 
 - [Awesome Talks Party](https://awesometalks.party/)
-- [Awesome talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
-- [Awesome tech talks](https://github.com/1and1/awesome-tech-talks#readme)
+- [Awesome talks](https://github.com/JanVanRyswyck/awesome-talks)
+- [Awesome tech talks](https://github.com/1and1/awesome-tech-talks)
 - [Find lectures](https://findlectures.com/)
-- [Programming talks](https://github.com/hellerve/programming-talks#readme)
+- [Programming talks](https://github.com/hellerve/programming-talks)
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
-
